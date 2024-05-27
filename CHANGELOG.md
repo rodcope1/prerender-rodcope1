@@ -2,6 +2,10 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 5.21.2 - 2024-05-27
+### Changed
+- Added `spawnFlags` option that defaults to `{shell: true}`
+
 ## 5.21.1 - 2024-05-06
 ### Changed
 - Add `server` object to `connectedToBrowser` event
