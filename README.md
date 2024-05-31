@@ -6,11 +6,11 @@ Prerender is a node server that uses Headless Chrome to render HTML, screenshots
 ##### The quickest way to run your own prerender server:
 
 ```bash
-$ npm install prerender
+$ npm install prerender-rodcope1
 ```
 ##### server.js
 ```js
-const prerender = require('prerender');
+const prerender = require('prerender-rodcope1');
 const server = prerender();
 server.start();
 ```
