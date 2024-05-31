@@ -2,7 +2,7 @@
   "author": "Prerender.io",
   "name": "prerender-rodcope1",
   "description": "prerender fork to fix issue on MacOS",
-  "version": "5.22.0",
+  "version": "5.22.1",
   "license": "MIT",
   "repository": {
     "type": "git",
